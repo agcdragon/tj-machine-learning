@@ -6,7 +6,7 @@ This repository contains some of my machine learning projects in Jupyter Noteboo
 The best model I trained was the Convolutional Neural Network (CNN) which classified the handwritten digits with 99%+ accuracy. My model consisted of 3 convolutional layers, totaling to 1,781,642 trainable parameters. This model was the result of my research and studying of machine learning techniques in my high school machine learning class at TJHSST. 
 
 ### Test Set Images & Predictions from CNN:
-![](images/mnist/test.png)
+![](images/mnist/predict.png)
 
 ## Spider Classification
 Additionally, as a side project, I used a Fast.ai library and its functionalities to pull spider images from Google Images, assign labels, and classify the spiders with a CNN model. I also added an ImageCleaner to filter out irrelevant pictures from the data. The resulting accuracy was around ~80%.
